@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.card-img-top {
+	height: 30vh;
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center, center;	
+}
+.card-body {
+	height:20%;
+	text-align: center;
+}
